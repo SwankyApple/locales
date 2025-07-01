@@ -89,11 +89,9 @@
     "view_in_space": "View in your space",
     "view_store_info": "View store information"
   },
-  "date_formats": {
-    "month_day_year": "%b %d, %Y"
-  },
   "info": {
     "404_page_not_found": "404 Page Not Found",
+    "added": "Added",
     "address_error": "Error looking up that address",
     "address_no_results": "No results for that address",
     "address_query_limit_html": "You have exceeded the Google API usage limit. Consider upgrading to a <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plan<\/a>.",
@@ -162,11 +160,13 @@
     "section_no_content": "This section doesn’t currently include any content. Add content to this section using the sidebar.",
     "shipping_at_checkout": "Shipping, taxes, and discount codes calculated at checkout.",
     "shipping_at_checkout_taxes_included": "Taxes included. Shipping and discount codes calculated at checkout.",
-    "shipping_policy_html": "<a href='{{ link }}'>Shipping<\/a> calculated at checkout.",
+    "shipping_policy_html": "<a href='{{ link }}'>Shipping</a> calculated at checkout.",
+    "show_options": "Show options",
     "signup_success": "We will send you an email when we open!",
     "sold_out": "Sold Out",
     "tax_included": "Tax included.",
     "unavailable": "Unavailable",
+    "variant_sold_out_or_unavailable": "Variant sold out or unavailable",
     "view_in_space_explanation": "View in your space, loads item in augmented reality window",
     "will_be_powered_by_html": "This shop will be powered by {{ shopify }}",
     "you_must_agree": "You must agree with the terms and conditions of sales to checkout",
@@ -200,6 +200,7 @@
     "featured_product": "Featured product",
     "first_name": "First name",
     "from_price_html": "<span>from<\/span> {{ price }}",
+    "from_price": "from {{ price }}",
     "fulfillment_status": "Fulfillment status",
     "goes_great_with": "Goes great with",
     "home": "Home",

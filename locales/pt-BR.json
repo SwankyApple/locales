@@ -89,11 +89,9 @@
     "view_in_space": "Ver no seu espaço",
     "view_store_info": "Exibir informações de loja"
   },
-  "date_formats": {
-    "month_day_year": "%d de %B de %Y"
-  },
   "info": {
     "404_page_not_found": "404 Página não encontrada",
+    "added": "Adicionado",
     "address_error": "Não é possível localizar o endereço",
     "address_no_results": "Nenhum resultado para este endereço",
     "address_query_limit_html": "Você excedeu a cota de uso da API do Google. Considere a atualização para um <a href=\"https://developers.google.com/maps/premium/usage-limits\">Plano Premium</a>.",
@@ -156,10 +154,12 @@
     "shipping_at_checkout": "Os códigos de desconto, o frete e os impostos são adicionados no encerramento.",
     "shipping_at_checkout_taxes_included": "Taxas incluídas. Códigos de frete e desconto calculados no checkout.",
     "shipping_policy_html": "<a href='{{ link }}'>Frete</a> calculado no checkout.",
+    "show_options": "Mostrar opções",
     "signup_success": "Nós lhe enviaremos um e-mail logo antes de abrirmos!",
     "sold_out": "Esgotado",
     "tax_included": "Taxas incluídas.",
     "unavailable": "Indisponível",
+    "variant_sold_out_or_unavailable": "Variante esgotada ou indisponível",
     "view_in_space_explanation": "Ver em seu espaço, carregar item na janela de realidade aumentada",
     "will_be_powered_by_html": "Esta loja será patrocinada por {{ shopify }}",
     "you_must_agree": "Você deve concordar com os termos e condições de vendas para verificar",
@@ -192,6 +192,7 @@
     "example_product": "Exemplo de título de produto",
     "featured_product": "Produto em destaque",
     "first_name": "Nome",
+    "from_price": "de {{ preço }}",
     "from_price_html": "<span>A partir de</span> {{ price }}",
     "fulfillment_status": "Status do processamento",
     "goes_great_with": "Vai grande com",
