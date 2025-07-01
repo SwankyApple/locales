@@ -89,6 +89,9 @@
     "view_in_space": "View in your space",
     "view_store_info": "View store information"
   },
+  "date_formats": {
+    "month_day_year": "%b %d, %Y"
+  },
   "info": {
     "404_page_not_found": "404 Page Not Found",
     "added": "Added",
@@ -227,7 +230,15 @@
     "popular_posts": "Popular posts",
     "price": "Price",
     "product": "Product",
+    "product_card": "Product card",
+    "product_grid": "Product grid",
+    "product_hotspot": "Product hotspot",
+    "product_reviews": "Product reviews",
     "product_tags": "Product tags",
+    "product_specs": "Product specs",
+    "product_tile_layout": "Product tile layout",
+    "product_tile_style": "Product tile style",
+    "product_tiles": "Product tiles",
     "products": "Products",
     "province": "Province",
     "quantity": "Quantity",
