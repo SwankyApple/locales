@@ -414,7 +414,7 @@
     "collections_heading": "Collections",
     "all_heading":"All",
     "pages_heading": "Pages",
-    "placeholder": "What are you looking for?",
+    "placeholder": "What are you looking for?"
   },
   "search": {
     "unperformed": {
@@ -516,7 +516,7 @@
       "sale_price": "Sale price",
       "unit_price": "Unit price",
       "from_variant_price": "From",
-      "to_variant_price": "To",
+      "to_variant_price": "To"
     },
     "share": "Share this product",
     "share_link_copied": "Your link has been copied to the clipboard",
@@ -533,7 +533,7 @@
       "recipient_name": "Recipient's name",
       "message": "Personal message",
       "send_date": "Send date"  
-    },
+    }
   },
   "gift_cards": {
     "issued": {
@@ -548,7 +548,7 @@
       "expiration_date": "Expires {{ expires_on }}",
       "copy_code_success": "Code copied successfully",
       "expired": "Expired",
-      "card": "Gift card",
+      "card": "Gift card"
     }
   },
   "accessibility": {
@@ -605,7 +605,7 @@
     },
     "form": {
       "password": "Password",
-      "error": "Error",
+      "error": "Error"
     },
     "product": {
       "discount": "Total Discount",
@@ -643,7 +643,7 @@
       "page": "Current Page"
     },
     "sections": {
-      "related_articles": "Related Articles",
+      "related_articles": "Related Articles"
     },
     "icons": {
       "account": "Account",
@@ -707,7 +707,7 @@
     "video": {
       "sound_control": "Sound Control for Video",
       "playing_status_control": "Playing Status Control for Video",
-      "alt_not_available": "Video description not available",
+      "alt_not_available": "Video description not available"
     }
   },
   "contact": {
@@ -724,8 +724,8 @@
       "surname_error": "Please enter a valid last name",
       "email_error": "Please enter a valid email address",
       "phone_error": "Please enter a valid phone number",
-      "message_error": "Please enter your message",
-    },
+      "message_error": "Please enter your message"
+    }
   },
   "customer": {
     "log_out": "Log out",
@@ -747,7 +747,7 @@
       "create_account": "Create account",
       "guest_title": "Continue as a guest",
       "guest_continue": "Continue",
-      "alternate_provider_separator": "or",
+      "alternate_provider_separator": "or"
     },
     "register": {
       "title": "Create account",
@@ -772,7 +772,7 @@
       "title": "My account",
       "subtext": "Manage your account details, addresses, and orders.",
       "details": "Account details",
-      "view_addresses": "View addresses",
+      "view_addresses": "View addresses"
     },
     "orders": {
       "title": "Order History",
@@ -806,7 +806,7 @@
       "totals": "Totals",
       "subtotal": "Subtotal",
       "shipping": "Shipping",
-      "free_shipping": "Free shipping",
+      "free_shipping": "Free shipping"
     },
     "addresses": {
       "title": "Addresses",
@@ -829,7 +829,7 @@
       "set_default": "Set as default address",
       "save": "Save address",
       "cancel": "Cancel",
-      "add": "Add address",
+      "add": "Add address"
     }
   },
   "sections": {
@@ -892,7 +892,7 @@
     "password": {
       "title": "Password Protected",
       "password": "Password",
-      "enter": "Enter",
+      "enter": "Enter"
     }
   },
   "filters": {
